@@ -16,3 +16,7 @@ test "  " {
 	assert.equals(0,gimenez.totalDinero())
 	assert.equals(4000, gimenez.totalSueldo())
 }
+
+test " "{
+	gimenez.gastar
+}
